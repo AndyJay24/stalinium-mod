@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "stalinium_mod:block/stalinium_block"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:iron_ingot"
+    },
+    "result": "stalinium_mod:processed_iron_ingot",
+    "experience": 0.4,
+    "cookingtime": 200
+}

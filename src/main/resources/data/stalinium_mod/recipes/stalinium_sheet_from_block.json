@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "stalinium_mod:stalinium_block"
+        }
+    ],
+    "result": {
+        "item": "stalinium_mod:stalinium_sheet",
+        "count": 9
+    }
+}

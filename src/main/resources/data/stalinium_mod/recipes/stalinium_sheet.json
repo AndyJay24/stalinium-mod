@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#s#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_nugget"
+        },
+        "s": {
+            "item": "stalinium_mod:processed_iron_ingot"
+        }
+    },
+    "result": {
+        "item": "stalinium_mod:stalinium_sheet",
+        "count": 1
+    }
+}
